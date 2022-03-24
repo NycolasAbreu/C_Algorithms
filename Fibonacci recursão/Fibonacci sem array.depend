@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603152662 source:c:\users\nycolas\desktop\c udemy\meus programas c\fibonacci sem array\main.c
+	<stdio.h>
+	<stdlib.h>
+

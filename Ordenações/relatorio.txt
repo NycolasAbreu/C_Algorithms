@@ -1,0 +1,154 @@
+bubble_sort[0]: 29.013000s
+bubble_sort[1]: 5.933000s
+bubble_sort[2]: 5.928000s
+bubble_sort[3]: 5.931000s
+bubble_sort[4]: 5.932000s
+bubble_sort[5]: 5.930000s
+bubble_sort[6]: 5.901000s
+bubble_sort[7]: 5.928000s
+bubble_sort[8]: 6.030000s
+bubble_sort[9]: 5.959000s
+bubble_sort[10]: 5.941000s
+bubble_sort[11]: 5.965000s
+bubble_sort[12]: 5.974000s
+bubble_sort[13]: 5.953000s
+bubble_sort[14]: 6.003000s
+bubble_sort[15]: 5.923000s
+bubble_sort[16]: 5.917000s
+bubble_sort[17]: 5.921000s
+bubble_sort[18]: 5.967000s
+bubble_sort[19]: 5.921000s
+Media bubble_sort: 7.098500s
+---------------------------
+quick_sort[0]: 0.023000s
+quick_sort[1]: 0.018000s
+quick_sort[2]: 0.018000s
+quick_sort[3]: 0.017000s
+quick_sort[4]: 0.014000s
+quick_sort[5]: 0.014000s
+quick_sort[6]: 0.014000s
+quick_sort[7]: 0.014000s
+quick_sort[8]: 0.013000s
+quick_sort[9]: 0.013000s
+quick_sort[10]: 0.014000s
+quick_sort[11]: 0.014000s
+quick_sort[12]: 0.013000s
+quick_sort[13]: 0.013000s
+quick_sort[14]: 0.014000s
+quick_sort[15]: 0.014000s
+quick_sort[16]: 0.014000s
+quick_sort[17]: 0.013000s
+quick_sort[18]: 0.014000s
+quick_sort[19]: 0.013000s
+Media quick_sort: 0.014700s
+---------------------------
+selection_sort[0]: 5.929000s
+selection_sort[1]: 23.650000s
+selection_sort[2]: 23.606000s
+selection_sort[3]: 23.762000s
+selection_sort[4]: 23.546000s
+selection_sort[5]: 23.684000s
+selection_sort[6]: 23.644000s
+selection_sort[7]: 23.681000s
+selection_sort[8]: 23.616000s
+selection_sort[9]: 23.689000s
+selection_sort[10]: 23.566000s
+selection_sort[11]: 23.603000s
+selection_sort[12]: 23.480000s
+selection_sort[13]: 23.919000s
+selection_sort[14]: 23.870000s
+selection_sort[15]: 23.642000s
+selection_sort[16]: 23.654000s
+selection_sort[17]: 23.533000s
+selection_sort[18]: 23.576000s
+selection_sort[19]: 23.706000s
+Media selection_sort: 22.767800s
+---------------------------
+insert_bin_sort[0]: 9.808000s
+insert_bin_sort[1]: 0.003000s
+insert_bin_sort[2]: 0.003000s
+insert_bin_sort[3]: 0.002000s
+insert_bin_sort[4]: 0.003000s
+insert_bin_sort[5]: 0.003000s
+insert_bin_sort[6]: 0.003000s
+insert_bin_sort[7]: 0.003000s
+insert_bin_sort[8]: 0.003000s
+insert_bin_sort[9]: 0.002000s
+insert_bin_sort[10]: 0.002000s
+insert_bin_sort[11]: 0.003000s
+insert_bin_sort[12]: 0.003000s
+insert_bin_sort[13]: 0.003000s
+insert_bin_sort[14]: 0.003000s
+insert_bin_sort[15]: 0.003000s
+insert_bin_sort[16]: 0.003000s
+insert_bin_sort[17]: 0.002000s
+insert_bin_sort[18]: 0.003000s
+insert_bin_sort[19]: 0.003000s
+Media insert_bin_sort: 0.493050s
+---------------------------
+merge_sort[0]: 0.016000s
+merge_sort[1]: 0.006000s
+merge_sort[2]: 0.006000s
+merge_sort[3]: 0.006000s
+merge_sort[4]: 0.005000s
+merge_sort[5]: 0.006000s
+merge_sort[6]: 0.006000s
+merge_sort[7]: 0.006000s
+merge_sort[8]: 0.005000s
+merge_sort[9]: 0.006000s
+merge_sort[10]: 0.006000s
+merge_sort[11]: 0.006000s
+merge_sort[12]: 0.005000s
+merge_sort[13]: 0.006000s
+merge_sort[14]: 0.006000s
+merge_sort[15]: 0.005000s
+merge_sort[16]: 0.005000s
+merge_sort[17]: 0.005000s
+merge_sort[18]: 0.006000s
+merge_sort[19]: 0.006000s
+Media merge_sort: 0.006200s
+---------------------------
+insert_sort[0]: 9.533000s
+insert_sort[1]: 0.000000s
+insert_sort[2]: 0.000000s
+insert_sort[3]: 0.000000s
+insert_sort[4]: 0.000000s
+insert_sort[5]: 0.000000s
+insert_sort[6]: 0.000000s
+insert_sort[7]: 0.000000s
+insert_sort[8]: 0.000000s
+insert_sort[9]: 0.000000s
+insert_sort[10]: 0.000000s
+insert_sort[11]: 0.000000s
+insert_sort[12]: 0.000000s
+insert_sort[13]: 0.000000s
+insert_sort[14]: 0.000000s
+insert_sort[15]: 0.000000s
+insert_sort[16]: 0.000000s
+insert_sort[17]: 0.000000s
+insert_sort[18]: 0.000000s
+insert_sort[19]: 0.000000s
+Media insert_sort: 0.476650s
+---------------------------
+heap_sort[0]: 0.021000s
+heap_sort[1]: 0.013000s
+heap_sort[2]: 0.013000s
+heap_sort[3]: 0.013000s
+heap_sort[4]: 0.013000s
+heap_sort[5]: 0.013000s
+heap_sort[6]: 0.013000s
+heap_sort[7]: 0.013000s
+heap_sort[8]: 0.013000s
+heap_sort[9]: 0.013000s
+heap_sort[10]: 0.013000s
+heap_sort[11]: 0.013000s
+heap_sort[12]: 0.013000s
+heap_sort[13]: 0.014000s
+heap_sort[14]: 0.013000s
+heap_sort[15]: 0.013000s
+heap_sort[16]: 0.013000s
+heap_sort[17]: 0.013000s
+heap_sort[18]: 0.012000s
+heap_sort[19]: 0.013000s
+Media heap_sort: 0.013400s
+---------------------------
